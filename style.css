@@ -408,12 +408,8 @@ header{
    }
 }
 @media screen and (max-width: 680px) {
-}
    body{
       overflow-x: auto;
-      width:100%;
-   }
-   #central-window{
-      max-width: 100%;
+      background-color: #EEE;
    }
 }
